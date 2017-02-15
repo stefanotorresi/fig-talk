@@ -10,19 +10,21 @@ You can browse the presentation [here][online-presentation].
 
 ```shell
 $: yarn
-$: yarn run gulp build
+$: yarn gulp build
 ```
+
+This will create an `index.html` which is the main access point for the slides.
 
 ## Develop
 
 ```shell
-$: yarn serve
+$: yarn http-server
 ```
 
-will run `http-server` and serve at `http://localhost:8000`.
+will run `http-server` and serve at `http://localhost:8080` by default.
 
 ```shell
-$: yarn run gulp
+$: yarn gulp
 ```
 
 will run `gulp` to build sources and watch for changes
