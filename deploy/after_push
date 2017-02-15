@@ -8,4 +8,4 @@ echo files changed: $(git diff $oldrev $newrev --diff-filter=ACDMR --name-only |
 umask 002
 
 yarn --production
-yarn run build
+yarn gulp build
