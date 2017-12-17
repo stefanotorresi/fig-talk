@@ -1,8 +1,8 @@
 # PHP-FIG
 
-**F**ramework  
-**I**nteroperation  
-**G**roup  
+** F**ramework  
+** I**nteroperation  
+** G**roup  
 
 ---
 
@@ -12,7 +12,9 @@
 
 - Software Engineer @ Facile.it
 
-- 15 years in PHP / Python / JavaScript
+- 15 years in the software industry
+
+- Polyglot programmer and DevOps enthusiast
 
 ---
 
